@@ -7,4 +7,6 @@ Example usage:  ./scan -t 192.168.1.1-192.168.1.254 or ./scan -t 192.168.0.110
 
 If you wish to recompile scan.go you will need to set GOPATH to $(pwd)/lib
 
+test
+
 Example: export GOPATH=$(pwd)/lib
